@@ -3,7 +3,7 @@
 const judul = document.getElementById("judul");
 judul.style.color = "#1e81b0";
 judul.style.backgroundColor = "#ccc";
-judul.innerHTML = "Muhammad Raihan";
+judul.innerHTML = "Muhammad Raihan"; // innerHTML -> ganti teks
 
 // document.getElementsByTagName() -> HTMLCollections
 const p = document.getElementsByTagName("p");
